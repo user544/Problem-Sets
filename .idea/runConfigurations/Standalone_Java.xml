@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Standalone Java" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="edu.ahs.robotics.java.Main" />
+    <option name="MAIN_CLASS_NAME" value="Main" />
     <module name="java" />
     <method v="2">
       <option name="Make" enabled="true" />
